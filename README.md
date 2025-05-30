@@ -12,7 +12,7 @@ A Python-based project that displays real-time aircraft data on an [Inky Impress
 - Displays:
   - Flight callsign and airline
   - Altitude and ground speed
-  - Distance from home location (Georgetown, TX)
+  - Distance from home location
   - Origin and destination airports
   - Airline logo (when available)
 - Rotates between cities every 5 minutes
