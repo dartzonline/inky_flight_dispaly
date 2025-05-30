@@ -24,7 +24,7 @@ A Python-based project that displays real-time aircraft data on an [Inky Impress
 
 | Item                            | Buy Link                                                                 |
 |---------------------------------|--------------------------------------------------------------------------|
-| Raspberry Pi (any recent model) | [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) |
+| Raspberry Pi (any recent model, Pi zero works fine) | [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) |
 | Inky Impression 7.3" display    | [Pimoroni](https://shop.pimoroni.com/products/inky-impression-7-3)     |
 | Micro SD Card (16GB+)           | Any reliable brand                                                       |
 | Power Supply                    | Official Raspberry Pi USB-C or micro-USB                                 |
