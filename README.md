@@ -51,7 +51,7 @@ Make sure to enable I2C and SPI on your Raspberry Pi using `raspi-config`.
 Here’s an example of the flight tracker display in action:
 
 
-![ExampleOutput
+![Flight Tracker Example](example.png)
 
 
 ## License
